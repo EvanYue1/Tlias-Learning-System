@@ -1,0 +1,331 @@
+2025-04-12 00:06:48.209 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m13s118ms).
+2025-04-12 00:06:48.261 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 00:06:48.261 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 00:09:22.741 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m34s536ms).
+2025-04-12 00:09:22.742 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 00:09:22.742 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 00:28:49.300 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m26s559ms).
+2025-04-12 00:28:49.302 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 00:28:49.302 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 00:47:31.538 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m42s238ms).
+2025-04-12 00:47:31.540 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 00:47:31.540 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 01:04:45.627 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m14s88ms).
+2025-04-12 01:04:45.659 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 01:04:45.660 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 01:12:54.405 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m8s779ms).
+2025-04-12 01:12:54.406 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 01:12:54.407 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 01:32:05.618 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m11s212ms).
+2025-04-12 01:32:05.619 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 01:32:05.619 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 01:33:00.518 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s901ms).
+2025-04-12 01:33:00.520 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 01:33:00.520 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 02:05:23.379 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m22s860ms).
+2025-04-12 02:05:23.380 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 02:05:23.380 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 02:25:25.660 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m2s282ms).
+2025-04-12 02:25:25.662 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 02:25:25.662 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 02:43:05.742 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m40s82ms).
+2025-04-12 02:43:05.745 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 02:43:05.754 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 02:45:40.224 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m34s482ms).
+2025-04-12 02:45:40.226 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 02:45:40.226 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 03:05:51.827 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m11s603ms).
+2025-04-12 03:05:51.881 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 03:05:51.881 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 03:24:31.681 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m39s854ms).
+2025-04-12 03:24:31.683 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 03:24:31.683 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 03:44:37.751 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m6s70ms).
+2025-04-12 03:44:37.753 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 03:44:37.753 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 03:47:12.183 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m34s432ms).
+2025-04-12 03:47:12.186 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 03:47:12.189 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 04:02:54.278 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m42s95ms).
+2025-04-12 04:02:54.280 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 04:02:54.280 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 04:05:28.728 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m34s450ms).
+2025-04-12 04:05:28.730 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 04:05:28.730 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 04:24:14.761 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m46s33ms).
+2025-04-12 04:24:14.762 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 04:24:14.762 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 04:42:57.983 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m43s222ms).
+2025-04-12 04:42:57.984 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 04:42:57.984 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 04:45:32.454 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m34s471ms).
+2025-04-12 04:45:32.455 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 04:45:32.455 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 05:02:50.886 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m18s431ms).
+2025-04-12 05:02:50.886 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 05:02:50.886 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 05:21:07.140 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m16s255ms).
+2025-04-12 05:21:07.141 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 05:21:07.141 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 05:38:41.708 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m34s568ms).
+2025-04-12 05:38:41.710 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 05:38:41.710 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 05:57:53.890 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m12s182ms).
+2025-04-12 05:57:53.892 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 05:57:53.892 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 06:19:57.503 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m3s611ms).
+2025-04-12 06:19:57.610 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 06:19:57.610 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 06:40:13.418 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m15s916ms).
+2025-04-12 06:40:13.419 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 06:40:13.419 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 06:42:23.004 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m9s587ms).
+2025-04-12 06:42:23.005 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 06:42:23.005 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 07:02:01.950 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m38s946ms).
+2025-04-12 07:02:01.951 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 07:02:01.951 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 07:04:36.411 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m34s461ms).
+2025-04-12 07:04:36.413 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 07:04:36.413 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 07:24:37.194 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20m783ms).
+2025-04-12 07:24:37.195 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 07:24:37.195 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 07:42:18.093 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m40s898ms).
+2025-04-12 07:42:18.094 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 07:42:18.094 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 08:01:10.231 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m52s139ms).
+2025-04-12 08:01:10.232 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 08:01:10.232 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 08:03:44.691 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m34s460ms).
+2025-04-12 08:03:44.692 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 08:03:44.693 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 08:22:54.125 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m9s434ms).
+2025-04-12 08:22:54.126 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 08:22:54.126 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 08:41:28.152 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m34s27ms).
+2025-04-12 08:41:28.154 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 08:41:28.155 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 08:59:03.640 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m35s488ms).
+2025-04-12 08:59:03.643 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 08:59:03.644 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:14:45.463 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m41s823ms).
+2025-04-12 09:14:45.464 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:14:45.465 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:15:15.478 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:15:15.482 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:15:45.487 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:15:45.487 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:16:15.492 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:16:15.493 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:16:45.494 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:16:45.496 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:17:15.499 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:17:15.500 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:17:45.501 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:17:45.502 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:18:15.507 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:18:15.508 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:18:45.512 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:18:45.513 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:19:15.518 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:19:15.519 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:19:45.519 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:19:45.520 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:20:15.524 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:20:15.524 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:31:12.627 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m57s100ms).
+2025-04-12 09:31:12.629 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:31:12.629 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:31:42.638 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:31:42.642 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:32:12.643 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:32:12.644 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:32:24.913 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@78f6d742: (connection has passed maxLifetime)
+2025-04-12 09:32:25.096 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@550d9162
+2025-04-12 09:32:25.129 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:48:30.548 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@54865686: (connection has passed maxLifetime)
+2025-04-12 09:48:30.578 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@43e91bdd
+2025-04-12 09:48:30.616 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:48:32.514 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m19s871ms).
+2025-04-12 09:48:32.514 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:48:32.514 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:49:01.051 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@11f80c99: (connection has passed maxLifetime)
+2025-04-12 09:49:01.073 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2e6811cf
+2025-04-12 09:49:01.111 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:50:02.867 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5999419d: (connection has passed maxLifetime)
+2025-04-12 09:50:02.893 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@274a5e01
+2025-04-12 09:50:02.931 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:50:03.333 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@b8ba401: (connection has passed maxLifetime)
+2025-04-12 09:50:03.355 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6677543a
+2025-04-12 09:50:03.386 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:50:29.760 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6ba45b4e: (connection has passed maxLifetime)
+2025-04-12 09:50:29.835 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@575b3204
+2025-04-12 09:50:29.875 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:50:33.392 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@15bb5cbd: (connection has passed maxLifetime)
+2025-04-12 09:50:33.412 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@658ab75
+2025-04-12 09:50:33.444 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:59:06.051 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@548e1aa9: (connection has passed maxLifetime)
+2025-04-12 09:59:06.083 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2b9c99bd
+2025-04-12 09:59:06.114 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:59:08.965 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m36s451ms).
+2025-04-12 09:59:08.965 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:59:08.965 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 09:59:19.896 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2a995175: (connection has passed maxLifetime)
+2025-04-12 09:59:19.930 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@68fe7210
+2025-04-12 09:59:19.965 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:59:29.056 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@5a0573ad: (connection has passed maxLifetime)
+2025-04-12 09:59:29.086 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4ef89803
+2025-04-12 09:59:29.121 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:59:38.965 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 09:59:38.966 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:00:08.968 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:00:08.969 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:00:38.972 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:00:38.973 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:01:08.979 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:01:08.983 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:01:38.987 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:01:38.988 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:02:08.992 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:02:08.992 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:02:38.996 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:02:38.998 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:03:09.003 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:03:09.004 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:03:39.007 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:03:39.008 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:04:09.010 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:04:09.011 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:04:39.015 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:04:39.017 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:05:09.023 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:05:09.024 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:05:39.024 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:05:39.024 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:06:09.027 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:06:09.028 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:06:39.028 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:06:39.029 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:07:09.030 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:07:09.031 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:07:39.032 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:07:39.033 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:08:09.032 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:08:09.034 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:08:39.034 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:08:39.036 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:09:09.040 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:09:09.041 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:09:39.043 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:09:39.044 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:12:46.466 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m7s411ms).
+2025-04-12 10:12:46.473 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:12:46.473 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:13:16.476 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:13:16.477 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:13:46.479 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:13:46.481 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:14:16.485 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:14:16.487 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:14:46.491 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:14:46.492 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:15:16.496 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:15:16.497 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:15:46.502 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:15:46.503 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:16:16.507 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:16:16.507 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:19:06.265 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m49s758ms).
+2025-04-12 10:19:06.266 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:19:06.266 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:19:36.268 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:19:36.270 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:20:06.274 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:20:06.275 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:20:36.279 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:20:36.281 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:21:06.285 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:21:06.288 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:21:36.290 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:21:36.292 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:22:06.292 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:22:06.294 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:22:36.294 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:22:36.295 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:23:06.295 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:23:06.297 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:23:36.296 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:23:36.297 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:24:06.298 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:24:06.300 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:24:36.303 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:24:36.304 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:25:06.306 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:25:06.307 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:27:32.413 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m26s106ms).
+2025-04-12 10:27:32.414 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:27:32.415 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:28:02.417 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:28:02.418 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:28:32.418 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:28:32.421 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:29:02.420 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:29:02.421 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:29:32.421 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:29:32.422 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:30:02.426 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:30:02.427 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:30:32.431 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:30:32.432 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:31:02.434 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:31:02.435 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:31:32.434 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:31:32.436 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:32:02.439 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:32:02.440 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:32:32.440 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:32:32.442 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:33:02.444 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:33:02.445 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:33:32.449 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:33:32.451 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:34:02.454 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:34:02.455 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:34:32.457 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:34:32.458 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:34:42.880 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@550d9162: (connection has passed maxLifetime)
+2025-04-12 10:34:42.979 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@24e80141
+2025-04-12 10:34:43.010 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:02.461 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:02.461 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:35:13.002 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@274a5e01: (connection has passed maxLifetime)
+2025-04-12 10:35:13.048 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2fc182c5
+2025-04-12 10:35:13.083 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:23.442 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@43e91bdd: (connection has passed maxLifetime)
+2025-04-12 10:35:23.484 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@471708d1
+2025-04-12 10:35:23.515 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:31.460 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2b9c99bd: (connection has passed maxLifetime)
+2025-04-12 10:35:31.484 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@be7a0e6
+2025-04-12 10:35:31.519 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:32.465 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:32.465 [HikariPool-1 housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-04-12 10:35:32.690 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@68fe7210: (connection has passed maxLifetime)
+2025-04-12 10:35:32.707 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4adaaadd
+2025-04-12 10:35:32.742 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:33.919 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@2e6811cf: (connection has passed maxLifetime)
+2025-04-12 10:35:34.041 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7b5ac5ad
+2025-04-12 10:35:34.072 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:34.541 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@575b3204: (connection has passed maxLifetime)
+2025-04-12 10:35:34.563 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2af55592
+2025-04-12 10:35:34.596 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:36.525 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@6677543a: (connection has passed maxLifetime)
+2025-04-12 10:35:36.542 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2fe8898c
+2025-04-12 10:35:36.577 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:40.175 [HikariPool-1 connection closer] DEBUG com.zaxxer.hikari.pool.PoolBase-HikariPool-1 - Closing connection com.mysql.cj.jdbc.ConnectionImpl@4ef89803: (connection has passed maxLifetime)
+2025-04-12 10:35:40.192 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2ebb0bde
+2025-04-12 10:35:40.227 [HikariPool-1 connection adder] DEBUG com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Connection not added, stats (total=10, active=0, idle=10, waiting=0)
+2025-04-12 10:35:45.842 [SpringApplicationShutdownHook] DEBUG o.s.boot.availability.ApplicationAvailabilityBean-Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2025-04-12 10:35:45.850 [SpringApplicationShutdownHook] DEBUG o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext-Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4b21844c, started on Fri Apr 11 20:20:07 CST 2025
+2025-04-12 10:35:45.897 [SpringApplicationShutdownHook] DEBUG o.s.context.support.DefaultLifecycleProcessor-Stopping beans in phase 2147482623
+2025-04-12 10:35:45.907 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete

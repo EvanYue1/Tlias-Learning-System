@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: tlias_back
+
+  # configure database connection information
+  datasource:
+    url: jdbc:mysql://localhost:3306/tlias
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: '**934KJGMNMJ><&&hdkasicn!!.ji'
+
+# MyBatis related configuration
+mybatis:
+  configuration:
+    # MyBaits log output to terminal
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true

@@ -1,0 +1,30 @@
+2025-08-17 15:40:49.263 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 89509 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-17 15:40:49.264 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-17 15:40:49.708 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-17 15:40:49.716 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-17 15:40:49.716 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-17 15:40:49.717 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-17 15:40:49.739 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-17 15:40:49.740 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 455 ms
+2025-08-17 15:40:50.117 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-17 15:40:50.130 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-17 15:40:50.141 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 1.064 seconds (process running for 1.839)
+2025-08-17 16:29:19.400 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-17 16:29:19.405 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-17 16:29:19.417 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 10 ms
+2025-08-17 16:29:38.882 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-17 16:29:38.889 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Graceful shutdown complete
+2025-08-17 16:29:43.254 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 90238 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-17 16:29:43.255 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-17 16:29:43.752 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-17 16:29:43.758 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-17 16:29:43.759 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-17 16:29:43.759 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-17 16:29:43.779 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-17 16:29:43.780 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 503 ms
+2025-08-17 16:29:44.070 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-17 16:29:44.076 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-17 16:29:44.081 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 1.229 seconds (process running for 1.906)
+2025-08-17 18:16:00.662 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-17 18:16:00.673 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-17 18:16:00.700 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 26 ms
