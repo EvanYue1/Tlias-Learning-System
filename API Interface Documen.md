@@ -1,51 +1,49 @@
-## 1.部门管理
+## 1. Department Management
 
-### 1.1 部门列表查询
+### 1.1 Get Department List
 
-#### 1.1.1 基本信息
+#### 1.1.1 Basic Information
 
-请求路径：`/depts`
+**Request Path:** `/depts`
+ **Request Method:** `GET`
+ **Description:** This endpoint is used to retrieve the list of departments.
 
-请求方式：`GET`
+#### 1.1.2 Request Parameters
 
-接口描述：该接口用于部门列表数据查询
+None
 
-#### 1.1.2 请求参数
+#### 1.1.3 Response Data
 
-无
+**Content Type:** `application/json`
 
-#### 1.1.3 响应数据
+**Parameters:**
 
-参数格式：`application/json`
+| Parameter      | Type     | Required | Description                             |
+| -------------- | -------- | -------- | --------------------------------------- |
+| code           | number   | Yes      | Response code, 1 = success, 0 = failure |
+| msg            | string   | No       | Message                                 |
+| data           | object[] | No       | Returned data                           |
+| \|- id         | number   | No       | Department ID                           |
+| \|- name       | string   | No       | Department name                         |
+| \|- createTime | string   | No       | Creation time                           |
+| \|- updateTime | string   | No       | Last update time                        |
 
-参数说明：
+**Example Response:**
 
-| 参数名         | 类型      | 是否必须 | 备注                           |
-| -------------- | --------- | -------- | ------------------------------ |
-| code           | number    | 必须     | 响应码，1 代表成功，0 代表失败 |
-| msg            | string    | 非必须   | 提示信息                       |
-| data           | object[ ] | 非必须   | 返回的数据                     |
-| \|- id         | number    | 非必须   | id                             |
-| \|- name       | string    | 非必须   | 部门名称                       |
-| \|- createTime | string    | 非必须   | 创建时间                       |
-| \|- updateTime | string    | 非必须   | 修改时间                       |
-
-响应数据样例：
-
-```JSON
+```json
 {
   "code": 1,
   "msg": "success",
   "data": [
     {
       "id": 1,
-      "name": "学工部",
+      "name": "Student Affairs",
       "createTime": "2022-09-01T23:06:29",
       "updateTime": "2022-09-01T23:06:29"
     },
     {
       "id": 2,
-      "name": "教研部",
+      "name": "Academic Affairs",
       "createTime": "2022-09-01T23:06:29",
       "updateTime": "2022-09-01T23:06:29"
     }
@@ -53,209 +51,193 @@
 }
 ```
 
-### 1.2 删除部门
+------
 
-#### 1.2.1 基本信息
+### 1.2 Delete Department
 
-请求路径：`/depts`
+#### 1.2.1 Basic Information
 
-请求方式：`DELETE`
+**Request Path:** `/depts`
+ **Request Method:** `DELETE`
+ **Description:** This endpoint deletes a department by ID.
 
-接口描述：该接口用于根据ID删除部门数据
+#### 1.2.2 Request Parameters
 
-#### 1.2.2 请求参数
+| Parameter | Type   | Required | Description   |
+| --------- | ------ | -------- | ------------- |
+| id        | number | Yes      | Department ID |
 
-参数说明：
-
-| 参数名 | 类型   | 是否必须 | 备注   |
-| ------ | ------ | -------- | ------ |
-| id     | number | 必须     | 部门ID |
-
-请求参数样例：
+**Request Example:**
 
 ```
 /depts?id=1
 /depts?id=2
 ```
 
-#### 1.2.3 响应数据
+#### 1.2.3 Response Data
 
-参数格式：`application/json`
+**Content Type:** `application/json`
 
-参数说明：
+| Parameter | Type   | Required | Description                             |
+| --------- | ------ | -------- | --------------------------------------- |
+| code      | number | Yes      | Response code, 1 = success, 0 = failure |
+| msg       | string | No       | Message                                 |
+| data      | object | No       | Returned data                           |
 
-| 参数名 | 类型   | 是否必须 | 备注                           |
-| ------ | ------ | -------- | ------------------------------ |
-| code   | number | 必须     | 响应码，1 代表成功，0 代表失败 |
-| msg    | string | 非必须   | 提示信息                       |
-| data   | object | 非必须   | 返回的数据                     |
+**Example Response:**
 
-响应数据样例：
-
-```JSON
+```json
 {
-    "code":1,
-    "msg":"success",
-    "data":null
+  "code": 1,
+  "msg": "success",
+  "data": null
 }
 ```
 
-### 1.3 添加部门
+------
 
-#### 1.3.1 基本信息
+### 1.3 Add Department
 
-请求路径：`/depts`
+#### 1.3.1 Basic Information
 
-请求方式：`POST`
+**Request Path:** `/depts`
+ **Request Method:** `POST`
+ **Description:** This endpoint is used to add a new department.
 
-接口描述：该接口用于添加部门数据
+#### 1.3.2 Request Parameters
 
-#### 1.3.2 请求参数
+**Content Type:** `application/json`
 
-格式：`application/json`
+| Parameter | Type   | Required | Description     |
+| --------- | ------ | -------- | --------------- |
+| name      | string | Yes      | Department name |
 
-参数说明：
+**Request Example:**
 
-| 参数名 | 类型   | 是否必须 | 备注     |
-| ------ | ------ | -------- | -------- |
-| name   | string | 必须     | 部门名称 |
-
-请求参数样例：
-
-```JSON
+```json
 {
-    "name": "教研部"
+  "name": "Academic Affairs"
 }
 ```
 
-#### 1.3.3 响应数据
+#### 1.3.3 Response Data
 
-参数格式：`application/json`
+**Content Type:** `application/json`
 
-参数说明：
+| Parameter | Type   | Required | Description                             |
+| --------- | ------ | -------- | --------------------------------------- |
+| code      | number | Yes      | Response code, 1 = success, 0 = failure |
+| msg       | string | No       | Message                                 |
+| data      | object | No       | Returned data                           |
 
-| 参数名 | 类型   | 是否必须 | 备注                           |
-| ------ | ------ | -------- | ------------------------------ |
-| code   | number | 必须     | 响应码，1 代表成功，0 代表失败 |
-| msg    | string | 非必须   | 提示信息                       |
-| data   | object | 非必须   | 返回的数据                     |
+**Example Response:**
 
-响应数据样例：
-
-```JSON
+```json
 {
-    "code":1,
-    "msg":"success",
-    "data":null
+  "code": 1,
+  "msg": "success",
+  "data": null
 }
 ```
 
-### 1.4 根据ID查询
+------
 
-#### 1.4.1 基本信息
+### 1.4 Get Department By ID
 
-请求路径：`/depts/{id}`
+#### 1.4.1 Basic Information
 
-请求方式：`GET`
+**Request Path:** `/depts/{id}`
+ **Request Method:** `GET`
+ **Description:** This endpoint retrieves a department by its ID.
 
-接口描述：该接口用于根据ID查询部门数据
+#### 1.4.2 Request Parameters
 
-#### 1.4.2 请求参数
+**Parameter Type:** Path parameter
 
-参数格式：路径参数
+| Parameter | Type   | Required | Description   |
+| --------- | ------ | -------- | ------------- |
+| id        | number | Yes      | Department ID |
 
-参数说明：
-
-| 参数名 | 类型   | 是否必须 | 备注   |
-| ------ | ------ | -------- | ------ |
-| id     | number | 必须     | 部门ID |
-
-请求参数样例：
+**Request Example:**
 
 ```
 /depts/1
 /depts/3
 ```
 
-#### 1.4.3 响应数据
+#### 1.4.3 Response Data
 
-参数格式：`application/json`
+**Content Type:** `application/json`
 
-参数说明：
+| Parameter      | Type   | Required | Description                             |
+| -------------- | ------ | -------- | --------------------------------------- |
+| code           | number | Yes      | Response code, 1 = success, 0 = failure |
+| msg            | string | No       | Message                                 |
+| data           | object | No       | Returned data                           |
+| \|- id         | number | No       | Department ID                           |
+| \|- name       | string | No       | Department name                         |
+| \|- createTime | string | No       | Creation time                           |
+| \|- updateTime | string | No       | Last update time                        |
 
-| 参数名         | 类型   | 是否必须 | 备注                           |
-| -------------- | ------ | -------- | ------------------------------ |
-| code           | number | 必须     | 响应码，1 代表成功，0 代表失败 |
-| msg            | string | 非必须   | 提示信息                       |
-| data           | object | 非必须   | 返回的数据                     |
-| \|- id         | number | 非必须   | id                             |
-| \|- name       | string | 非必须   | 部门名称                       |
-| \|- createTime | string | 非必须   | 创建时间                       |
-| \|- updateTime | string | 非必须   | 修改时间                       |
+**Example Response:**
 
-响应数据样例：
-
-```JSON
+```json
 {
   "code": 1,
   "msg": "success",
   "data": {
     "id": 1,
-    "name": "学工部",
+    "name": "Student Affairs",
     "createTime": "2022-09-01T23:06:29",
     "updateTime": "2022-09-01T23:06:29"
   }
 }
 ```
 
-### 1.5 修改部门
+------
 
-#### 1.5.1 基本信息
+### 1.5 Update Department
 
-请求路径：`/depts`
+#### 1.5.1 Basic Information
 
-请求方式：`PUT`
+**Request Path:** `/depts`
+ **Request Method:** `PUT`
+ **Description:** This endpoint updates department information.
 
-接口描述：该接口用于修改部门数据
+#### 1.5.2 Request Parameters
 
-#### 1.5.2 请求参数
+**Content Type:** `application/json`
 
-格式：`application/json`
+| Parameter | Type   | Required | Description     |
+| --------- | ------ | -------- | --------------- |
+| id        | number | Yes      | Department ID   |
+| name      | string | Yes      | Department name |
 
-参数说明：
+**Request Example:**
 
-| 参数名 | 类型   | 是否必须 | 备注     |
-| ------ | ------ | -------- | -------- |
-| id     | number | 必须     | 部门ID   |
-| name   | string | 必须     | 部门名称 |
-
-请求参数样例：
-
-```JSON
+```json
 {
-    "id": 1,
-    "name": "教研部"
+  "id": 1,
+  "name": "Academic Affairs"
 }
 ```
 
-#### 1.5.3 响应数据
+#### 1.5.3 Response Data
 
-参数格式：`application/json`
+**Content Type:** `application/json`
 
-参数说明：
+| Parameter | Type   | Required | Description                             |
+| --------- | ------ | -------- | --------------------------------------- |
+| code      | number | Yes      | Response code, 1 = success, 0 = failure |
+| msg       | string | No       | Message                                 |
+| data      | object | No       | Returned data                           |
 
-| 参数名 | 类型   | 是否必须 | 备注                           |
-| ------ | ------ | -------- | ------------------------------ |
-| code   | number | 必须     | 响应码，1 代表成功，0 代表失败 |
-| msg    | string | 非必须   | 提示信息                       |
-| data   | object | 非必须   | 返回的数据                     |
+**Example Response:**
 
-响应数据样例：
-
-```JSON
+```json
 {
-    "code":1,
-    "msg":"success",
-    "data":null
+  "code": 1,
+  "msg": "success",
+  "data": null
 }
 ```
