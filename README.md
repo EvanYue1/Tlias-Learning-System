@@ -15,7 +15,7 @@
 * **Employee Management**: Paginated employee listing, delete employee✅
 * **Planned Features (not yet implemented)**:
 
-  * Add/Update/Delete Employee records
+  * Add/Update/Select Employee records
   * Employee Work Experience management
 
 ---
@@ -27,8 +27,7 @@
 * **Database:** MySQL
 * **Build Tool:** Maven
 * **Logging:** Logback
-* **Java Version:** 17
-* **Testing:** JUnit
+* **Java Version:** 23
 
 ---
 
@@ -105,44 +104,7 @@ CREATE TABLE emp_expr (
 ) COMMENT 'Work experience table';
 ```
 
----
 
-## ⚡ How to Run
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/tlias_backend.git
-cd tlias_backend
-```
-
-2. **Configure MySQL Database**
-
-* Create database `tlias_db`
-* Update `src/main/resources/application.yml` with your DB credentials
-
-```text
-spring:
-  datasource:
-    url: "jdbc:mysql://localhost:3306/tlias_db?useSSL=false&serverTimezone=UTC"
-    username: "root"
-    password: "yourpassword"
-```
-
-> Note: Using `text` instead of `yaml` to avoid GitHub preview YAML parsing errors.
-
-3. **Build and Run the Project**
-
-```bash
-./mvnw spring-boot:run
-```
-
-4. **Access APIs**
-
-* Backend default port: `http://localhost:8080`
-* Use REST clients like **Postman** to test endpoints.
-
----
 
 ## 📄 Implemented REST API Endpoints
 
