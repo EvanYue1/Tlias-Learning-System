@@ -1,0 +1,368 @@
+2025-08-22 15:25:03.665 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 42221 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-22 15:25:03.667 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-22 15:25:04.224 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-22 15:25:04.231 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:25:04.232 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-22 15:25:04.232 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-22 15:25:04.262 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-22 15:25:04.262 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 552 ms
+2025-08-22 15:25:04.580 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:25:04.586 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-22 15:25:04.591 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 1.228 seconds (process running for 2.083)
+2025-08-22 15:25:37.412 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-22 15:25:37.414 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-22 15:25:37.415 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 1 ms
+2025-08-22 15:28:30.315 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-22 15:28:30.340 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Graceful shutdown complete
+2025-08-22 15:28:33.452 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 45610 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-22 15:28:33.454 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-22 15:28:33.882 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-22 15:28:33.888 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:28:33.889 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-22 15:28:33.889 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-22 15:28:33.910 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-22 15:28:33.911 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 432 ms
+2025-08-22 15:28:34.260 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:28:34.275 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-22 15:28:34.281 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 1.017 seconds (process running for 1.663)
+2025-08-22 15:31:25.867 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-22 15:31:25.873 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-22 15:31:25.882 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 9 ms
+2025-08-22 15:32:53.797 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-22 15:32:53.809 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Graceful shutdown complete
+2025-08-22 15:32:57.841 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 48372 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-22 15:32:57.841 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-22 15:32:58.613 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-22 15:32:58.646 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:32:58.651 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-22 15:32:58.651 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-22 15:32:58.716 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-22 15:32:58.717 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 851 ms
+2025-08-22 15:32:59.183 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:32:59.198 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-22 15:32:59.209 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 1.556 seconds (process running for 2.196)
+2025-08-22 15:33:05.313 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-22 15:33:05.313 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-22 15:33:05.315 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 2 ms
+2025-08-22 15:33:18.256 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-22 15:33:18.262 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Graceful shutdown complete
+2025-08-22 15:33:20.662 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 48587 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-22 15:33:20.663 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-22 15:33:21.314 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-22 15:33:21.320 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:33:21.320 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-22 15:33:21.321 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-22 15:33:21.340 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-22 15:33:21.340 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 658 ms
+2025-08-22 15:33:21.895 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:33:21.904 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-22 15:33:21.909 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 1.414 seconds (process running for 1.931)
+2025-08-22 15:33:22.807 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-22 15:33:22.808 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-22 15:33:22.810 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 2 ms
+2025-08-22 15:33:37.416 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-22 15:33:37.425 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Graceful shutdown complete
+2025-08-22 15:33:39.594 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 48810 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-22 15:33:39.595 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-22 15:33:40.004 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-22 15:33:40.012 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:33:40.013 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-22 15:33:40.013 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-22 15:33:40.038 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-22 15:33:40.038 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 420 ms
+2025-08-22 15:33:40.562 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:33:40.569 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-22 15:33:40.574 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 1.168 seconds (process running for 1.67)
+2025-08-22 15:33:41.691 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-22 15:33:41.691 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-22 15:33:41.693 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 2 ms
+2025-08-22 15:36:15.773 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-22 15:36:15.787 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Graceful shutdown complete
+2025-08-22 15:36:18.420 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 50419 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-22 15:36:18.420 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-22 15:36:18.842 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-22 15:36:18.848 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:36:18.848 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-22 15:36:18.848 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-22 15:36:18.868 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-22 15:36:18.868 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 419 ms
+2025-08-22 15:36:19.106 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:36:19.115 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-22 15:36:19.120 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 0.906 seconds (process running for 1.653)
+2025-08-22 15:36:52.254 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-22 15:36:52.260 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Graceful shutdown complete
+2025-08-22 15:36:54.225 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 50739 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-22 15:36:54.226 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-22 15:36:54.636 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-22 15:36:54.642 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:36:54.643 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-22 15:36:54.643 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-22 15:36:54.659 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-22 15:36:54.659 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 412 ms
+2025-08-22 15:36:54.902 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-22 15:36:54.908 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-22 15:36:54.912 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 0.862 seconds (process running for 1.304)
+2025-08-22 15:36:58.791 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-22 15:36:58.792 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-22 15:36:58.796 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 4 ms
+2025-08-22 15:43:56.078 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 15:43:56.085 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:43:56.090 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 15:43:56.090 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:43:56.136 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Starting...
+2025-08-22 15:43:56.506 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@205c6188
+2025-08-22 15:43:56.508 [http-nio-8080-exec-2] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Start completed.
+2025-08-22 15:43:56.945 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 15:43:56.945 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:43:56.945 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 15:43:56.945 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:43:57.916 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 15:43:57.929 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:43:57.930 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 15:43:57.930 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:43:58.767 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 15:43:58.770 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:43:58.771 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 15:43:58.771 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:43:59.415 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 15:43:59.417 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:43:59.418 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 15:43:59.418 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:44:00.201 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 15:44:00.202 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:44:00.202 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 15:44:00.202 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:44:00.734 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 15:44:00.736 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 15:44:00.736 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 15:44:00.736 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 16:05:22.018 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 16:05:22.026 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 2, pageSize is 10
+
+2025-08-22 16:05:22.026 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 16:05:22.026 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 2, pageSize is 10
+
+2025-08-22 16:05:24.433 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 16:05:24.434 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 2, pageSize is 10
+
+2025-08-22 16:05:24.434 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 16:05:24.434 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 2, pageSize is 10
+
+2025-08-22 16:07:48.026 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 16:07:48.032 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 16:07:48.032 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 16:07:48.032 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 16:08:06.314 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 16:08:06.315 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 16:08:06.315 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 16:08:06.316 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 16:08:34.110 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 16:08:34.112 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 5
+
+2025-08-22 16:08:34.112 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 16:08:34.112 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 5
+
+2025-08-22 16:15:23.584 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-22 16:15:23.606 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Graceful shutdown complete
+2025-08-22 16:15:23.616 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown initiated...
+2025-08-22 16:15:23.633 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown completed.
+2025-08-22 20:23:07.341 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 15844 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-22 20:23:07.342 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-22 20:23:07.833 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-22 20:23:07.840 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-22 20:23:07.841 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-22 20:23:07.841 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-22 20:23:07.861 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-22 20:23:07.861 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 492 ms
+2025-08-22 20:23:08.138 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-22 20:23:08.145 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-22 20:23:08.151 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 1.041 seconds (process running for 1.703)
+2025-08-22 20:23:12.385 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-22 20:23:12.388 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-22 20:23:12.397 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 8 ms
+2025-08-22 20:23:12.502 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:23:12.502 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:23:12.505 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:23:12.505 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:23:12.531 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Starting...
+2025-08-22 20:23:13.291 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@616fe5f6
+2025-08-22 20:23:13.293 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Start completed.
+2025-08-22 20:25:09.091 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:25:09.096 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:25:09.097 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:25:09.097 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:33:57.168 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:33:57.173 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:33:57.174 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:33:57.174 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:34:01.313 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:34:01.313 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:34:01.313 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:34:01.313 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:35:47.887 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:35:47.889 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:35:47.889 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:35:47.889 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:35:50.978 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:35:50.978 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:35:50.978 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:35:50.978 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:35:57.524 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:35:57.525 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:35:57.525 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:35:57.525 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:36:04.871 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:36:04.875 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:36:04.875 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:36:04.875 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:37:16.851 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:37:16.859 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:37:16.861 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:37:16.862 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:37:17.881 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:37:17.881 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:37:17.881 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:37:17.881 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:37:21.645 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:37:21.646 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:37:21.646 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:37:21.646 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:41:43.827 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-22 20:41:43.862 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Graceful shutdown complete
+2025-08-22 20:41:43.896 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown initiated...
+2025-08-22 20:41:44.009 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown completed.
+2025-08-22 20:45:37.434 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 32502 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-22 20:45:37.435 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-22 20:45:37.980 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-22 20:45:37.988 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-22 20:45:37.989 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-22 20:45:37.989 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-22 20:45:38.008 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-22 20:45:38.009 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 546 ms
+2025-08-22 20:45:38.319 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-22 20:45:38.326 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-22 20:45:38.331 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 1.255 seconds (process running for 2.053)
+2025-08-22 20:48:10.426 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-22 20:48:10.428 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-22 20:48:10.432 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 4 ms
+2025-08-22 20:48:10.500 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:48:10.500 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:48:10.501 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:48:10.502 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:48:10.514 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Starting...
+2025-08-22 20:48:10.801 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1d8590bc
+2025-08-22 20:48:10.802 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Start completed.
+2025-08-22 20:48:23.639 [http-nio-8080-exec-3] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:48:23.654 [http-nio-8080-exec-3] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:48:23.656 [http-nio-8080-exec-3] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:48:23.657 [http-nio-8080-exec-3] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:48:52.048 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:48:52.051 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:48:52.051 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:48:52.051 [http-nio-8080-exec-5] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:55:03.851 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:55:03.855 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:55:03.856 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:55:03.856 [http-nio-8080-exec-7] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:56:03.618 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:56:03.620 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:56:03.620 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:56:03.620 [http-nio-8080-exec-9] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:56:06.219 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:56:06.220 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:56:06.220 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:56:06.220 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:56:20.029 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:56:20.030 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:56:20.031 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:56:20.031 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:56:30.978 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:56:30.979 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:56:30.979 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:56:30.980 [http-nio-8080-exec-4] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:56:38.535 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 20:56:38.538 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 20:56:38.540 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 20:56:38.540 [http-nio-8080-exec-6] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 21:06:36.099 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 21:06:36.103 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 21:06:36.103 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 21:06:36.103 [http-nio-8080-exec-8] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 21:08:30.464 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 21:08:30.465 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 21:08:30.465 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 21:08:30.465 [http-nio-8080-exec-10] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 21:08:34.624 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-22 21:08:34.624 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-22 21:08:34.625 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-22 21:08:34.625 [http-nio-8080-exec-2] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-22 21:12:24.074 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m13s31ms).
+2025-08-22 21:27:16.522 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m22s414ms).
+2025-08-22 21:27:23.446 [SpringApplicationShutdownHook] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-22 21:27:23.486 [tomcat-shutdown] INFO  o.s.boot.web.embedded.tomcat.GracefulShutdown-Graceful shutdown complete
+2025-08-22 21:27:23.527 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown initiated...
+2025-08-22 21:27:23.589 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Shutdown completed.

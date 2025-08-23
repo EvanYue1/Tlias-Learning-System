@@ -1,0 +1,23 @@
+2025-08-23 10:39:19.946 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Starting TliasBackApplication using Java 23.0.2 with PID 76954 (/Users/qiushanzi/develope/America_project/Tlias/tlias_backend/target/classes started by qiushanzi in /Users/qiushanzi/develope/America_project/Tlias/tlias_backend)
+2025-08-23 10:39:19.946 [main] INFO  org.yzw.tlias_back.TliasBackApplication-No active profile set, falling back to 1 default profile: "default"
+2025-08-23 10:39:20.390 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat initialized with port 8080 (http)
+2025-08-23 10:39:20.396 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Initializing ProtocolHandler ["http-nio-8080"]
+2025-08-23 10:39:20.396 [main] INFO  org.apache.catalina.core.StandardService-Starting service [Tomcat]
+2025-08-23 10:39:20.396 [main] INFO  org.apache.catalina.core.StandardEngine-Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-08-23 10:39:20.412 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring embedded WebApplicationContext
+2025-08-23 10:39:20.412 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-Root WebApplicationContext: initialization completed in 446 ms
+2025-08-23 10:39:20.682 [main] INFO  org.apache.coyote.http11.Http11NioProtocol-Starting ProtocolHandler ["http-nio-8080"]
+2025-08-23 10:39:20.688 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer-Tomcat started on port 8080 (http) with context path '/'
+2025-08-23 10:39:20.692 [main] INFO  org.yzw.tlias_back.TliasBackApplication-Started TliasBackApplication in 0.916 seconds (process running for 1.465)
+2025-08-23 10:40:30.215 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/]-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-08-23 10:40:30.216 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Initializing Servlet 'dispatcherServlet'
+2025-08-23 10:40:30.232 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet-Completed initialization in 16 ms
+2025-08-23 10:40:30.284 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.controller.EmpController-Controller getPageEmp called
+2025-08-23 10:40:30.284 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.controller.EmpController--- parameter: page is 1, pageSize is 10
+
+2025-08-23 10:40:30.285 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1-Service getPageEmp called
+2025-08-23 10:40:30.285 [http-nio-8080-exec-1] INFO  org.yzw.tlias_back.service.Impl.EmpServiceImpl1--- parameter: page is 1, pageSize is 10
+
+2025-08-23 10:40:30.295 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Starting...
+2025-08-23 10:40:30.560 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.pool.HikariPool-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5a589429
+2025-08-23 10:40:30.561 [http-nio-8080-exec-1] INFO  com.zaxxer.hikari.HikariDataSource-HikariPool-1 - Start completed.

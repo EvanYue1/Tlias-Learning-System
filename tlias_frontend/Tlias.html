@@ -360,10 +360,10 @@
                             <td>{{ emp.id }}</td>
                             <td>{{ emp.username }}</td>
                             <td>{{emp.gender}}</td>
-                            <td><img :src="emp.profile" alt="Harry Potter" class="profile-image"></td>
-                            <td>{{ emp.role }}</td>
-                            <td>{{ emp.startDate }}</td>
-                            <td>{{ emp.endDate }}</td>
+                            <td><img :src="emp.image" alt="Harry Potter" class="profile-image"></td>
+                            <td>{{ emp.deptName }}</td>
+                            <td>{{ emp.createTime }}</td>
+                            <td>{{ emp.updateTime }}</td>
                             <td>
                                 <div class="operation-buttons">
                                     <button class="btn btn-edit">Edit</button>
@@ -445,25 +445,25 @@
                     })
                 },
                 async getEmployeeList() {
-                    const res = await axios.get('http://localhost:8080/employee/list')
-                    const resOperated = res.data.map(
+                    const res = await axios.get('http://localhost:8080/emps')
+                    const resOperated = res.data.data.rows.map(
                         (emp) => {
-                            emp.endDate = new Date(emp.endDate).getFullYear() + '-' + 
-                            (new Date(emp.endDate).getMonth() + 1) + '-' +
-                            new Date(emp.endDate).getDate() + ' ' +
-                            new Date(emp.endDate).getHours() + ':' +
-                            new Date(emp.endDate).getMinutes() + ':' +
-                            new Date(emp.endDate).getSeconds()
-                            emp.startDate = new Date(emp.startDate).getFullYear() + '-' + 
-                            (new Date(emp.endDate).getMonth() + 1) + '-' +
-                            new Date(emp.endDate).getDate() + ' ' +
-                            new Date(emp.endDate).getHours() + ':' +
-                            new Date(emp.endDate).getMinutes() + ':' +
-                            new Date(emp.endDate).getSeconds()
+                            emp.createTime = new Date(emp.createTime).getFullYear() + '-' + 
+                            (new Date(emp.createTime).getMonth() + 1) + '-' +
+                            new Date(emp.createTime).getDate() + ' ' +
+                            new Date(emp.createTime).getHours() + ':' +
+                            new Date(emp.createTime).getMinutes() + ':' +
+                            new Date(emp.createTime).getSeconds()
+                            emp.updateTime = new Date(emp.updateTime).getFullYear() + '-' + 
+                            (new Date(emp.updateTime).getMonth() + 1) + '-' +
+                            new Date(emp.updateTime).getDate() + ' ' +
+                            new Date(emp.updateTime).getHours() + ':' +
+                            new Date(emp.updateTime).getMinutes() + ':' +
+                            new Date(emp.updateTime).getSeconds()
                             return emp
                         }
                     )
-                    this.empList = res.data
+                    this.empList = resOperated
                 },   
             },
             mounted() {
